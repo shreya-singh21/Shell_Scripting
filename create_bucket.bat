@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#this is the script for creating s3 bucket in AWS
 # Set the name of your new S3 bucket
 BUCKET_NAME="my-bucketghj"
 
