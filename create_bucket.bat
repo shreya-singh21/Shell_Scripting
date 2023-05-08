@@ -5,10 +5,6 @@ set BUCKET_NAME=my-bucketghj
 
 :: Set the region for your new S3 bucket
 set BUCKET_REGION=ap-south-1
-#!/bin/bash
-#this is the script for creating s3 bucket in AWS
-# Set the name of your new S3 bucket
-BUCKET_NAME="my-bucketghj"
 
 :: Create the new S3 bucket
 aws s3api create-bucket ^
