@@ -1,7 +1,7 @@
 @echo off
 
 :: Set the name of your new S3 bucket
-set BUCKET_NAME=my-bucketghj
+set BUCKET_NAME=my-bucketihggit 
 
 :: Set the region for your new S3 bucket
 set BUCKET_REGION=ap-south-1
